@@ -1,6 +1,8 @@
 ### Hi 👋 
 ### 这里是一只嗷嗷待哺的小码农
-博客建设中：[github.io](https://github.com/lulu-s/lulu-s.github.io)
+
+文章汇总：[book](https://github.com/lulu-s/lulu-book)
+视觉博客建设中：[github.io](https://github.com/lulu-s/lulu-s.github.io)
 <!--
 **lulu-s/lulu-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
