@@ -1,5 +1,5 @@
 ### Hi 👋 
-### 这里是一只嗷嗷待哺的小码农
+### About me
 
 * I think it's interesting 🐱 <br/> <br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lulu-s&theme=dracula&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
