@@ -2,7 +2,7 @@
 ### 这里是一只嗷嗷待哺的小码农
 
 * 感觉好玩才展示的小卡片 😄 <br/> <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lulu-s&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lulu-s&theme=dracula&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 * 文章汇总：[Book](https://github.com/lulu-s/lulu-book) 
