@@ -1,7 +1,7 @@
 ### Hi 👋 
 ### 这里是一只嗷嗷待哺的小码农
 
-⬇️ 单纯觉得好玩 <br/>
+> 感觉好玩才展示的小卡片 😄
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lulu-s&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
