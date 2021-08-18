@@ -2,14 +2,8 @@
 ### About me
 
 * I think it's interesting 🐱 <br/> <br/>
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lulu-s&theme=dracula&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lulu-s&theme=dracula&hide=contribs&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lulu-s&theme=dracula&hide=contribs&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 统计所有提交数而不是当年 include_all_commits=true
 -->
